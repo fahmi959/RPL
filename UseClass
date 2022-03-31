@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T03:20:56.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="uF7t48r1kfGV5VD_eSgQ" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T03:24:45.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="I3drNtEfPOv7QVsyWaHr" version="17.3.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U9DyjqRNMepzADblLQM_-4" value="Add item to chart" style="verticalAlign=bottom;endArrow=block;entryX=0.48;entryY=0.9;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="U9DyjqRNMepzADblLQM_-4" value="Add item to chart" style="verticalAlign=bottom;endArrow=block;entryX=0.48;entryY=0.9;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="350.0000000000001" as="sourcePoint" />
             <mxPoint x="340" y="350.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9DyjqRNMepzADblLQM_-5" value="Confirmation" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="U9DyjqRNMepzADblLQM_-5" value="Confirmation" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="345" y="379" as="sourcePoint" />
             <mxPoint x="180" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9DyjqRNMepzADblLQM_-6" value="Web Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="U9DyjqRNMepzADblLQM_-6" value="Web Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="520" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U9DyjqRNMepzADblLQM_-7" value="Registered Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="U9DyjqRNMepzADblLQM_-7" value="Customer Terdaftar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="460" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U9DyjqRNMepzADblLQM_-8" value="New Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="U9DyjqRNMepzADblLQM_-8" value="Customer Baru" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="580" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
